@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/findMo/static/css/main.dd4cd9a6.css",
+    "main.js": "/findMo/static/js/main.0c8feccd.js",
+    "index.html": "/findMo/index.html",
+    "main.dd4cd9a6.css.map": "/findMo/static/css/main.dd4cd9a6.css.map",
+    "main.0c8feccd.js.map": "/findMo/static/js/main.0c8feccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4cd9a6.css",
+    "static/js/main.0c8feccd.js"
+  ]
+}
